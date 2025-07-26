@@ -1,0 +1,8 @@
+<color-palette name="DPD Cool Palette" type="regular">
+<color>#33576b</color>
+<color>#5997b2</color>
+<color>#bed3d8</color>
+<color>#004445</color>
+<color>#279989</color>
+<color>#9FD5B3</color>
+</color-palette>
